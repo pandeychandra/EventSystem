@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_person_white_24dp"
+            android:title="Create Event" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_person_white_24dp"
+            android:title="Registeration" />
+        <item
+            android:id="@+id/nav_mypost"
+            android:icon="@drawable/ic_person_white_24dp"
+            android:title="My Post" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About" />
+        </menu>
+    </item>
+    <item android:title="Power By">
+        <menu>
+
+            <item
+                android:id="@+id/nav_power"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Innovative Tech" />
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_menu_send"
+                android:title="www.innovatitech.com.np" />
+        </menu>
+    </item>
+
+
+</menu>

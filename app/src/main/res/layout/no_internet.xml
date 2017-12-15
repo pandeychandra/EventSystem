@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/background_btn2">
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Internet Connection"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#f9fafb"
+
+        android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+    <Button
+        style="@style/Base.TextAppearance.AppCompat.Body1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/background_login"
+        android:clickable="true"
+        android:padding="16dp"
+        android:text="Ok"
+        android:id="@+id/fbutton"
+        android:onClick="p"
+        android:textStyle="bold"
+
+
+        android:textAllCaps="false"
+        android:textColor="#f16f7d"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:layout_marginLeft="55dp"
+        android:layout_marginStart="55dp"
+        android:textColor="#f9fafb"
+        android:textSize="22dp"
+        android:textStyle="bold"
+
+        android:layout_marginTop="23dp"
+        android:text="Please open data or wifi first" />
+</RelativeLayout>

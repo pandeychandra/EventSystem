@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EventSystemDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_call">ic_black_call</string>
+    <string name="text_location">ic_location_on_black</string>
+    <string name="title">Our vision is to help bring people together.</string>
+    <string name="first_name">
+
+    Share bread, spill wine, learn, laugh and create memories; this is what drives our team to build Sydney Nepal. We believe in events. It’s where culture is created, relationships are forged and sometimes new loves are sparked. It’s where we meet old friends, create new friends and watch our kids recitals. Events are life, and going to events is living.
+
+    Here’s the problem. We’ve all heard of “convenience fees” and “service fees”. These fees have become accepted in our culture because we have had no other choice. It’s a problem for everyone, including you.
+
+
+
+
+   </string>
+    <string name="last">For More:: https://www.sydneynepal.com.au</string>
+    <string name="firstc">Share bread, spill wine, learn, laugh and create memories; this is what drives our team to build Sydney Nepal. We believe in events.</string>
+
+
+</resources>

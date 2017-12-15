@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "976491964466",
+    "firebase_url": "https://notificationgcm-3ce2f.firebaseio.com",
+    "project_id": "notificationgcm-3ce2f",
+    "storage_bucket": "notificationgcm-3ce2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976491964466:android:eb323c82c9644c8d",
+        "android_client_info": {
+          "package_name": "com.example.moonlight.notificationgcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976491964466-296lvqvv8cuutj74sftr1debic20ekkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moonlight.notificationgcm",
+            "certificate_hash": "e0e0dcc51a862185597311ed73634d22cfd3d5b5"
+          }
+        },
+        {
+          "client_id": "976491964466-g1pdfus92lfvq1qia6rb538srntmhsh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo3-n5IeB6xhQexHezP8-QgUCb7TeiPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976491964466-g1pdfus92lfvq1qia6rb538srntmhsh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976491964466:android:d5fa0f50c4fb5783",
+        "android_client_info": {
+          "package_name": "com.example.moonlight.eventsystemdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976491964466-mrn9qsjs25h3o4g8cm7g8e2tk47021pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moonlight.eventsystemdemo",
+            "certificate_hash": "e0e0dcc51a862185597311ed73634d22cfd3d5b5"
+          }
+        },
+        {
+          "client_id": "976491964466-g1pdfus92lfvq1qia6rb538srntmhsh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo3-n5IeB6xhQexHezP8-QgUCb7TeiPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976491964466-g1pdfus92lfvq1qia6rb538srntmhsh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
